@@ -50,7 +50,7 @@ sleep 0
 else
 cd ~
 {
-git clone https://github.com/entynetproject/ghost.git
+git clone https://github.com/hassaja/sd.git
 } &> /dev/null
 fi
 sleep 0.5
